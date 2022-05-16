@@ -1,0 +1,19 @@
+.selected {
+  border: 1px solid #f8f6ca;
+  background-color: #81897c;
+}
+
+.not-selected {
+  border: 1px solid #ddd;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  border-spacing: 15px;
+  margin: 16px;
+}
+th, td {
+  padding: 4px;
+}
